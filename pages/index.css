@@ -57,7 +57,7 @@
   font-weight: 500;
   font-size: 60px;
   line-height: 72px;
-  letter-spacing: -0.6;
+  letter-spacing: -0.6px;
 }
 
 .header__span-accent {
@@ -163,7 +163,7 @@
 .video-caption {
   font-family: "Inter";
   font-style: normal;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 20px;
   line-height: 30px;
   display: flex;
